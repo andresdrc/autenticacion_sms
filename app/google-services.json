@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782182963116",
+    "project_id": "autenticacioncelular",
+    "storage_bucket": "autenticacioncelular.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782182963116:android:2732ec3f31c2b5df8f4c09",
+        "android_client_info": {
+          "package_name": "com.secuoyasoft.autenticacioncelular"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782182963116-nrfj6kgtu3bmklo3nos8gih38fvkds7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ3iJwXPHrKDDqDSTwgUe3ai80IpjFK4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782182963116-nrfj6kgtu3bmklo3nos8gih38fvkds7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
